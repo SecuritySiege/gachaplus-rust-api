@@ -4,6 +4,9 @@
     "ghcr.io/devcontainers/features/rust:1": {
       "version": "latest",
       "profile": "complete"
+    },
+    "ghcr.io/devcontainers-contrib/features/mysql-homebrew:1": {
+      "version": "latest"
     }
   }
 }
